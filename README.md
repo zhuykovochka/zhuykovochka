@@ -2,6 +2,9 @@
   <img src="https://github.com/user-attachments/assets/e939adbf-ba5a-49fd-aa91-842d866a2907" alt="GIF" width="300">
   <h2><strong>👋 Привет, я Алина</strong></h2>
 </div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zhuykovochka&color=blueviolet&style=plastic" alt="PROFILE VIEWS" />
+</p>
 <div align="center">
   <em>📍 Санкт-Петербург</em>
 </div>
