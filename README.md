@@ -7,6 +7,7 @@
 </div>
 <div align="center">
   <em>📧 zhuykovochka@yandex.ru</em>
+  </div>
 <div align="center">
   <em>🚀 Python & C++ & C# разработчик</em>  
 </div>
