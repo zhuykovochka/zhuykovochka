@@ -1,16 +1,38 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/e939adbf-ba5a-49fd-aa91-842d866a2907" alt="GIF" width="300">
+  <h2><strong>👋 Привет, я Алина</strong></h2>
+</div>
+<div align="center">
+  <em>🚀 Python & C++ & C# разработчик</em>  
+</div>
+<div align="center">
+  <em>📍 Санкт-Петербург | 📧 zhuykovochka@yandex.ru | 📞 +7 (981) 139-96-01</em>
+</div>
 
-<!--
-**zhuykovochka/zhuykovochka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔍 Обо мне
+Студентка 2 курса ГУАП по направлению "Информационные системы и технологии". Увлекаюсь анализом данных, автоматизацией процессов и разработкой программных решений. Имею опыт в создании desktop-приложений и работе с базами данных.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎓 Технические навыки.
+
+**📊 Языки программирования:**
+- Python (разработка приложений, анализ данных)
+- C++/C# (разработка игр и Windows-приложений)
+- SQL (базовые запросы)
+
+**🛠️ Инструменты:**
+- Git (система контроля версий)
+- Excel (анализ данных)
+- Windows (разработка под Desktop)
+
+**🌍 Английский:** уровень C1 (сертификат FCE Cambridge)
+
+---
+
+</div>
+<div align="center">
+  <em>P.S. Все проекты представлены в закрепе ➜📎</em>
+</div>
