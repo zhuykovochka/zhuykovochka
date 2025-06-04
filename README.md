@@ -3,10 +3,12 @@
   <h2><strong>👋 Привет, я Алина</strong></h2>
 </div>
 <div align="center">
-  <em>🚀 Python & C++ & C# разработчик</em>  
+  <em>📍 Санкт-Петербург</em>
 </div>
 <div align="center">
-  <em>📍 Санкт-Петербург | 📧 zhuykovochka@yandex.ru | 📞 +7 (981) 139-96-01</em>
+  <em>📧 zhuykovochka@yandex.ru</em>
+<div align="center">
+  <em>🚀 Python & C++ & C# разработчик</em>  
 </div>
 
 ---
